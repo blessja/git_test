@@ -1,0 +1,1 @@
+This is Blessing's first git project! 
